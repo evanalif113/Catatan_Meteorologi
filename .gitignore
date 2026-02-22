@@ -1,6 +1,8 @@
 /Analisis_Meteorologi/analisis/
-/Analisis_Meteorologi/open_meteo_climate/
-/Analisis_Meteorologi/plots/
+/Analisis_Meteorologi/open_meteo_jerukagung/
+/Analisis_Meteorologi/open_meteo_kebumen/
+/Analisis_Meteorologi/plots
 /Analisis_Meteorologi/weather_data_csv/
+/Analisis_Meteorologi/.cache.sqlite
 service_account.json
 output.png
