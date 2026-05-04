@@ -2,7 +2,8 @@
 /Analisis_Meteorologi/open_meteo_jerukagung/
 /Analisis_Meteorologi/open_meteo_kebumen/
 /Analisis_Meteorologi/open_meteo_klirong/
-/Analisis_Meteorologi/plots/
+/Analisis_Meteorologi/periode_tertentu_plots/
+/Analisis_Meteorologi/plots_hyetograph_bulanan/
 /Analisis_Meteorologi/weather_data_csv/
 /Analisis_Meteorologi/.cache.sqlite
 service_account.json
