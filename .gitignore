@@ -11,3 +11,4 @@ service_account.json
 output.png
 /weather_data_csv/
 /DeepLearning_Meteorologi/weather_data_sensor/
+/DeepLearning_Meteorologi/raw_data_sensor/
